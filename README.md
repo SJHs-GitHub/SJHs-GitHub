@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam!
 - 👀 I’m primarily interested in machine learning, along with other AI methods, as well as the development of programs in languages like Java and Python.
 - 🌱 I’m currently learning C++, as I believe it will benefit my skillset to know this language. I'm always learning more about machine learning and AI, looking to gain both theoretical knowledge and practical skills.
-- The public repositories contain some of my old school and university projects.
+- The public repositories contain some of my old projects for school and university assessments.
 - Please feel free to have a look through them.
 - I hope you're having a great day.
 <!---
